@@ -10,7 +10,7 @@ class Application
         resp.write "Good Afternoon!"
     end
     
-    resp.finish #done
+    resp.finish #donea
   end
  
 end
